@@ -42,6 +42,10 @@ body {
   --color-white: hsl(0deg, 0%, 100%);
 }
 
+body {
+  font-size: calc(18rem / 16); /* 1.125rem = 18px */
+}
+
 .max-width-wrapper {
   margin-left: auto;
   margin-right: auto;
